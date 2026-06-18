@@ -1,0 +1,4 @@
+files:
+  - repo: arena-rosnav/her-drl
+    filename: best_val.pth
+    dest: model/best_val.pth
